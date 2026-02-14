@@ -8,6 +8,14 @@
   position: relative;
 }
  
+.navigation-links-group-thq-navigation-link-elm1 {
+  text-decoration: none;
+}
+ 
+.navigation-links-group-thq-navigation-link-elm2 {
+  text-decoration: none;
+}
+ 
 .navigation-links-grouproot-class-name {
   width: auto;
 }
@@ -99,7 +107,6 @@
   height: 793px;
   min-height: 100vh;
   padding-top: 1px;
-  padding-bottom: 168px;
 }
  
 .home-thq-hero-content-elm {
