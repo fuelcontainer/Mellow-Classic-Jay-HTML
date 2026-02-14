@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://mellow-classic-jay-b1pmie.teleporthq.app/sitemap.xml

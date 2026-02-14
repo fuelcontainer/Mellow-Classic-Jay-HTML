@@ -1,0 +1,159 @@
+.navigation-links-group-wrapper {
+  display: contents;
+}
+ 
+.navigation-links-group-thq-navigation-links-group-elm {
+  width: 50%;
+  height: 39px;
+  position: relative;
+}
+
+.navigation-wrapper {
+  display: contents;
+}
+ 
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-thq-navigation-wrapper-elm {
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.navigation-thq-navigation-logo-link-elm {
+  text-decoration: none;
+}
+ 
+.navigation-image {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.navigation-thq-navigation-desktop-menu-elm {
+  width: 797px;
+  height: 17px;
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
+
+.footer-wrapper {
+  display: contents;
+}
+ 
+.footer-container1 {
+  display: contents;
+}
+ 
+.footer-image {
+  width: 200px;
+  object-fit: cover;
+}
+ 
+.footer-container2 {
+  display: none;
+}
+ 
+.footer-container3 {
+  display: contents;
+}
+
+.services-solutions-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.services-solutions-text12 {
+  font-weight: 700;
+}
+ 
+.services-solutions-text14 {
+  font-weight: 700;
+}
+ 
+.services-solutions-text16 {
+  font-weight: 700;
+}
+ 
+.services-solutions-text18 {
+  font-weight: 700;
+}
+ 
+.services-solutions-text20 {
+  font-weight: 700;
+}
+ 
+.services-solutions-text22 {
+  font-weight: 700;
+}
+ 
+.services-solutions-text24 {
+  font-weight: 700;
+}
+ 
+.services-solutions-text26 {
+  font-weight: 700;
+}
+ 
+.services-solutions-text28 {
+  font-weight: 700;
+}
+ 
+.services-solutions-text30 {
+  font-weight: 700;
+}
+ 
+.services-solutions-text32 {
+  font-weight: 700;
+}
+ 
+.services-solutions-text34 {
+  font-weight: 700;
+}
+ 
+.services-solutions-container2 {
+  display: none;
+}
+ 
+.services-solutions-container3 {
+  display: contents;
+}
+ 
+.services-solutions-container4 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.services-solutions-icon32 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.services-solutions-text47 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
