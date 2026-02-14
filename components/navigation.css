@@ -12,10 +12,6 @@
   width: auto;
 }
 
-.navigation-wrapper {
-  display: contents;
-}
- 
 .navigation-container1 {
   display: contents;
 }
@@ -59,40 +55,5 @@
 }
  
 .navigation-container3 {
-  display: contents;
-}
-
-.footer-wrapper {
-  display: contents;
-}
- 
-.footer-container1 {
-  display: contents;
-}
- 
-.footer-image {
-  width: 200px;
-  object-fit: cover;
-}
- 
-.footer-container2 {
-  display: none;
-}
- 
-.footer-container3 {
-  display: contents;
-}
-
-.booking-quotes-container1 {
-  width: 100%;
-  display: block;
-  min-height: 100vh;
-}
- 
-.booking-quotes-container2 {
-  display: none;
-}
- 
-.booking-quotes-container3 {
   display: contents;
 }
