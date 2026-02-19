@@ -732,11 +732,15 @@
             </div>
             <div class="cta-column cta-form-container">
               <form
-                action="/submit-quote"
+                action="https://api.web3forms.com/submit"
                 method="POST"
                 data-form-id="ed8497a0-830f-49f8-bf00-b509234f6742"
                 class="quote-form"
               >
+                <input type="hidden" name="access_key" value="18ab375b-72b7-4bee-bb42-c676871ff4bd">
+                <input type="hidden" name="subject" value="Quick Quote Request - Mellow Classic Jay">
+                <input type="hidden" name="from_name" value="Mellow Classic Jay Website">
+                <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
                 <div class="form-grid">
                   <div class="form-group">
                     <label for="company">Company Name</label>
