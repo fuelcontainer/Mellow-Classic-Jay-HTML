@@ -91,16 +91,20 @@
   display: contents;
 }
 
-.booking-quotes-container1 {
+.about-us-container1 {
   width: 100%;
   display: block;
   min-height: 100vh;
 }
  
-.booking-quotes-container2 {
+.about-us-component1 {
+  text-decoration: none;
+}
+ 
+.about-us-container2 {
   display: none;
 }
  
-.booking-quotes-container3 {
+.about-us-container3 {
   display: contents;
 }
